@@ -1,1 +1,1 @@
-El taller es super util para aprender git
+El taller es super nada util para aprender git
